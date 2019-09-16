@@ -1,15 +1,15 @@
 # BrickBreaker-IUT
 Uni Project
 Things done:
-1. Menu
-2. Exit
-3. Bricks
-4. Collision
-5. Pad
-6. Ball
-7. Loading screen
-8. Hiding console
-9. Mouse grab
+01. Menu
+02. Exit
+03. Bricks
+04. Collision
+05. Pad
+06. Ball
+07. Loading screen
+08. Hiding console
+09. Mouse grab
 10. Resolution changing
 
 Things to be done:
@@ -21,7 +21,8 @@ Things to be done:
 6. Saves
 7. Accounts
 8. Levels
+9. Pad Vectors
 
 Future Plans:
-1. Design sprites and backgrounds in steampunk theme
+1. Design sprites and backgrounds in appropriate theme
 2. Implement Storyline
