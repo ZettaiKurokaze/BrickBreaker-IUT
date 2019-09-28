@@ -13,16 +13,16 @@ Things done:
 10. Resolution changing
 11. Tones
 12. High Scores
+13. Better ball and brick collision
+14. Pad Vectors
 
 Things to be done:
+1. Power Ups
+2. Currency
+3. Saves
+4. Accounts
+5. Levels
 
-1. Better ball and brick collision
-2. Power Ups
-3. Currency
-4. Saves
-5. Accounts
-6. Levels
-7. Pad Vectors
 
 Future Plans:
 1. Design sprites and backgrounds in appropriate theme
