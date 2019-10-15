@@ -1,0 +1,6 @@
+lala1 2 1629 3
+lala3 2 1629 3
+lala5 2 1629 3
+lala4 1 0 3
+lala6 1 0 3
+lala2 1 0 3
